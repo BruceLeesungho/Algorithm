@@ -3,7 +3,7 @@
 #define MAX (10000)
 
 void radixSort(int* arr, int n) {
-    int res[MAX];   // ��� �迭
+    int res[MAX];   // °á°ú ¹è¿­
     int maxValue = 0;
     int exp = 1;
 
